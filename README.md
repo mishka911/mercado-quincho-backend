@@ -1,2 +1,3 @@
-# mercado-quinchos-backend
-Este repositorio contiene el código fuente del backend de la aplicación mercado-quinchos.
+# mercado-quincho-backend
+Creación de rama desarrolladores "NombreDesarrollador-tarea a realizar."
+Creción de commit "Nombre_Apellido texto descriptivo de lo que hizo."
